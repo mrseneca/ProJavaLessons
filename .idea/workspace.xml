@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffee16cb-8159-4605-974d-709a359d3139" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lesson5_LinkedListRealisation/MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson5_LinkedListRealisation/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProJavaLessons/Lesson2_ArrayList/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProJavaLessons/Lesson2_ArrayList/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProJavaLessons/Lesson4_LinkedList/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProJavaLessons/Lesson4_LinkedList/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProJavaLessons/META-INF/ProJavaLessons.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson5_LinkedListRealisation/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson5_LinkedListRealisation/MyLinkedList.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -111,7 +105,7 @@
       <updated>1571833832319</updated>
       <workItem from="1571833833505" duration="62000" />
       <workItem from="1571833906272" duration="3453000" />
-      <workItem from="1571854517761" duration="3272000" />
+      <workItem from="1571854517761" duration="3528000" />
     </task>
     <servers />
   </component>

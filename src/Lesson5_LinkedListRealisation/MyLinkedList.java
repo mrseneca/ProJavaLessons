@@ -46,7 +46,7 @@ public class MyLinkedList {
         Node temp =  head;
         Node remove;
         while (temp != null) {
-            if (currentIndex == (index-1) {
+            if (currentIndex == (index-1)) {
                 temp.setNext(temp.getNext().getNext());
                 size--;
                 return;
