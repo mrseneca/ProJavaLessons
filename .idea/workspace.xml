@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffee16cb-8159-4605-974d-709a359d3139" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Lesson5_LinkedListRealisation/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson5_LinkedListRealisation/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson6_HashMap/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProJavaLessons/Lesson5_LinkedListRealisation/MyLinkedList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProJavaLessons/Lesson5_LinkedListRealisation/MyLinkedList$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProJavaLessons/Lesson5_LinkedListRealisation/MyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProJavaLessons/Lesson5_LinkedListRealisation/MyLinkedList.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +48,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (2)">
+  <component name="RunManager" selected="Application.Test (3)">
     <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson4_LinkedList.Test" />
       <module name="ProJavaLessons" />
@@ -72,6 +75,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson6_HashMap.Test" />
+      <module name="ProJavaLessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson6_HashMap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson2_ArrayList.Test" />
       <module name="ProJavaLessons" />
@@ -87,6 +103,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test (3)" />
         <item itemvalue="Application.Test (2)" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Test" />
@@ -105,7 +122,7 @@
       <updated>1571833832319</updated>
       <workItem from="1571833833505" duration="62000" />
       <workItem from="1571833906272" duration="3453000" />
-      <workItem from="1571854517761" duration="3528000" />
+      <workItem from="1571854517761" duration="4323000" />
     </task>
     <servers />
   </component>
