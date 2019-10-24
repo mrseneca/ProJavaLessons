@@ -2,10 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffee16cb-8159-4605-974d-709a359d3139" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lesson6_HashMap/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson7_LinkedHashMapAndTreeMap/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson8_Set/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson9_Hashing/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProJavaLessons/Lesson2_ArrayList/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProJavaLessons/Lesson2_ArrayList/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProJavaLessons/Lesson4_LinkedList/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProJavaLessons/Lesson4_LinkedList/Test.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ProJavaLessons/Lesson5_LinkedListRealisation/MyLinkedList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProJavaLessons/Lesson5_LinkedListRealisation/MyLinkedList$Node.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ProJavaLessons/Lesson5_LinkedListRealisation/MyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProJavaLessons/Lesson5_LinkedListRealisation/MyLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProJavaLessons/Lesson5_LinkedListRealisation/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProJavaLessons/Lesson5_LinkedListRealisation/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProJavaLessons/Lesson6_HashMap/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProJavaLessons/Lesson6_HashMap/Test.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,9 +39,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -48,20 +57,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (3)">
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson4_LinkedList.Test" />
-      <module name="ProJavaLessons" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson4_LinkedList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Test">
     <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson5_LinkedListRealisation.Test" />
       <module name="ProJavaLessons" />
@@ -88,12 +84,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson2_ArrayList.Test" />
+    <configuration name="Test (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson7_LinkedHashMapAndTreeMap.Test" />
       <module name="ProJavaLessons" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson2_ArrayList.*" />
+          <option name="PATTERN" value="Lesson7_LinkedHashMapAndTreeMap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson8_Set.Test" />
+      <module name="ProJavaLessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson8_Set.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson9_hashCodeAndEquals.Test" />
+      <module name="ProJavaLessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson9_hashCodeAndEquals.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,10 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Test (5)" />
+        <item itemvalue="Application.Test (4)" />
         <item itemvalue="Application.Test (3)" />
         <item itemvalue="Application.Test (2)" />
-        <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
