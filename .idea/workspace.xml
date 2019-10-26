@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffee16cb-8159-4605-974d-709a359d3139" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lesson10_HashMapWork/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson10_HashMapWork/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson11_Comparator/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson12_Comparable/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,7 +48,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (1)">
+  <component name="RunManager" selected="Application.Test (2)">
     <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson11_Comparator.Test" />
       <module name="ProJavaLessons" />
@@ -64,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson6_HashMap.Test" />
+    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson12_Comparable.Test" />
       <module name="ProJavaLessons" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson6_HashMap.*" />
+          <option name="PATTERN" value="Lesson12_Comparable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test (2)" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Test (5)" />
         <item itemvalue="Application.Test (4)" />
-        <item itemvalue="Application.Test (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +137,7 @@
       <workItem from="1571833833505" duration="62000" />
       <workItem from="1571833906272" duration="3453000" />
       <workItem from="1571854517761" duration="4323000" />
-      <workItem from="1572081294679" duration="2646000" />
+      <workItem from="1572081294679" duration="3697000" />
     </task>
     <servers />
   </component>
