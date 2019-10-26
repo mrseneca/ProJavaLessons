@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffee16cb-8159-4605-974d-709a359d3139" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lesson17_Volatile/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson18_Synchronized/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProJavaLessons/Lesson17_Volatile/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProJavaLessons/Lesson17_Volatile/MyThread.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,26 +49,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (1)">
+  <component name="RunManager" selected="Application.Test (2)">
     <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson17_Volatile.Test" />
       <module name="ProJavaLessons" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Lesson17_Volatile.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson13_Queue.Test" />
-      <module name="ProJavaLessons" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson13_Queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,13 +102,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson18_Synchronized.Test" />
+      <module name="ProJavaLessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson18_Synchronized.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test (2)" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Test (5)" />
         <item itemvalue="Application.Test (4)" />
-        <item itemvalue="Application.Test (3)" />
       </list>
     </recent_temporary>
   </component>
