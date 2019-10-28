@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffee16cb-8159-4605-974d-709a359d3139" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lesson20_ThreadPool/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson21_ProducerConsumer/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson22_WaitAndNotify/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson24_ProducerConsumer/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProJavaLessons/Lesson9_Hashing/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProJavaLessons/Lesson9_Hashing/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson21_ProducerConsumer/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson21_ProducerConsumer/Test.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,13 +50,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (3)">
+  <component name="RunManager" selected="Application.Test (1)">
     <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson17_Volatile.Test" />
+      <option name="MAIN_CLASS_NAME" value="Lesson24_ProducerConsumer.Test" />
       <module name="ProJavaLessons" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson17_Volatile.*" />
+          <option name="PATTERN" value="Lesson24_ProducerConsumer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson15_Iterable.Test" />
+    <configuration name="Test (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson21_ProducerConsumer.Test" />
       <module name="ProJavaLessons" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson15_Iterable.*" />
+          <option name="PATTERN" value="Lesson21_ProducerConsumer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,11 +104,11 @@
       </method>
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson16_Multithreding.Test" />
+      <option name="MAIN_CLASS_NAME" value="Lesson22_WaitAndNotify.Test" />
       <module name="ProJavaLessons" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson16_Multithreding.*" />
+          <option name="PATTERN" value="Lesson22_WaitAndNotify.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test (3)" />
-        <item itemvalue="Application.Test (2)" />
-        <item itemvalue="Application.Test (2)" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Test (4)" />
+        <item itemvalue="Application.Test (3)" />
+        <item itemvalue="Application.Test (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -154,6 +153,7 @@
       <workItem from="1571833906272" duration="3453000" />
       <workItem from="1571854517761" duration="4323000" />
       <workItem from="1572081294679" duration="7199000" />
+      <workItem from="1572278787649" duration="3899000" />
     </task>
     <servers />
   </component>
