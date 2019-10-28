@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffee16cb-8159-4605-974d-709a359d3139" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lesson19_Synchronized_Part2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson20_ThreadPool/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson21_ProducerConsumer/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson18_Synchronized/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson18_Synchronized/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProJavaLessons/Lesson9_Hashing/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProJavaLessons/Lesson9_Hashing/Test.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +51,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (2)">
+  <component name="RunManager" selected="Application.Test (3)">
     <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson17_Volatile.Test" />
       <module name="ProJavaLessons" />
@@ -76,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson14_Stack.Test" />
+    <configuration name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson20_ThreadPool.Test" />
       <module name="ProJavaLessons" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson14_Stack.*" />
+          <option name="PATTERN" value="Lesson20_ThreadPool.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test (3)" />
         <item itemvalue="Application.Test (2)" />
         <item itemvalue="Application.Test (2)" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Test (5)" />
       </list>
     </recent_temporary>
   </component>
