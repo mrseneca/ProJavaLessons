@@ -1,0 +1,22 @@
+package Lesson41_Annotations;
+@MyAnnotation
+public class Test {
+    @MyAnnotation
+    private String name;
+
+    @MyAnnotation
+    public Test() {
+
+    }
+
+    @MyAnnotation
+    public void test(@MyAnnotation int value) {
+        @MyAnnotation String localVar = "Hello";
+    }
+
+    @MyAnnotation
+    public static void main(@MyAnnotation String[] args) {
+        MyClass m1 = new MyClass();
+        m1.MyMethod();
+    }
+}
