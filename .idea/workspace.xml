@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffee16cb-8159-4605-974d-709a359d3139" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lesson41_Annotations/MyAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson41_Annotations/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson41_Annotations/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson42_Annotations2/MethodInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson42_Annotations2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestProject/TestProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestProject/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestProject/src/main/java/MyMath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestProject/src/main/java/NetworkUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestProject/src/main/java/Vector2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestProject/src/test/java/MyMathTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestProject/src/test/java/NetworkUtilsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestProject/src/test/java/Vector2DTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,20 +32,28 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1SbYbNOdqAzlcGHCCe6yfOMx4QZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -54,72 +67,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (2)">
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson24_ProducerConsumer.Test" />
-      <module name="ProJavaLessons" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson24_ProducerConsumer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson41_Annotations.Test" />
-      <module name="ProJavaLessons" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson41_Annotations.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson21_ProducerConsumer.Test" />
-      <module name="ProJavaLessons" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson21_ProducerConsumer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson25_CountDownLatch.Test" />
-      <module name="ProJavaLessons" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson25_CountDownLatch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson22_WaitAndNotify.Test" />
-      <module name="ProJavaLessons" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson22_WaitAndNotify.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.NetworkUtilsTest.getConnectionShouldReturnFasterThanOneSecond">
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson18_Synchronized.Test" />
       <module name="ProJavaLessons" />
@@ -133,13 +81,62 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MyMathTest.zeroDenominatorShouldThrowException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MyMathTest" />
+      <option name="METHOD_NAME" value="zeroDenominatorShouldThrowException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NetworkUtilsTest.getConectionShouldReturnFasterThanOneSecond" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NetworkUtilsTest" />
+      <option name="METHOD_NAME" value="getConectionShouldReturnFasterThanOneSecond" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NetworkUtilsTest.getConnectionShouldReturnFasterThanOneSecond" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NetworkUtilsTest" />
+      <option name="METHOD_NAME" value="getConnectionShouldReturnFasterThanOneSecond" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Vector2DTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Vector2DTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Vector2DTest.newVectorShouldHaveZeroLength" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Vector2DTest" />
+      <option name="METHOD_NAME" value="newVectorShouldHaveZeroLength" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test (2)" />
-        <item itemvalue="Application.Test (5)" />
-        <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Test (4)" />
+        <item itemvalue="JUnit.NetworkUtilsTest.getConnectionShouldReturnFasterThanOneSecond" />
+        <item itemvalue="JUnit.NetworkUtilsTest.getConectionShouldReturnFasterThanOneSecond" />
+        <item itemvalue="JUnit.MyMathTest.zeroDenominatorShouldThrowException" />
+        <item itemvalue="JUnit.Vector2DTest" />
+        <item itemvalue="JUnit.Vector2DTest.newVectorShouldHaveZeroLength" />
       </list>
     </recent_temporary>
   </component>
@@ -160,6 +157,9 @@
       <workItem from="1572278787649" duration="7081000" />
       <workItem from="1572372991089" duration="45000" />
       <workItem from="1572549215836" duration="2145000" />
+      <workItem from="1577389900335" duration="92000" />
+      <workItem from="1577390011676" duration="31000" />
+      <workItem from="1577390134633" duration="2523000" />
     </task>
     <servers />
   </component>
@@ -178,5 +178,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
