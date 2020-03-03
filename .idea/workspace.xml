@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffee16cb-8159-4605-974d-709a359d3139" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Lesson16_Multithreding/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson16_Multithreding/Test.java" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestProject/TestProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TestProject/TestProject.iml" afterDir="false" />
+>>>>>>> master
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +144,11 @@
       <workItem from="1577389900335" duration="92000" />
       <workItem from="1577390011676" duration="31000" />
       <workItem from="1577390134633" duration="2523000" />
+<<<<<<< HEAD
       <workItem from="1583225323125" duration="1607000" />
+=======
+      <workItem from="1583225323125" duration="1261000" />
+>>>>>>> master
     </task>
     <servers />
   </component>
@@ -166,6 +176,7 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2728" y="412" width="293" height="211" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/1920.0.1920.1080/0.0.1920.1042@1920.0.1920.1080" timestamp="1583225768716" />
+<<<<<<< HEAD
     <state width="1878" height="277" key="GridCell.Tab.0.bottom" timestamp="1583227041896">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
@@ -182,6 +193,24 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state width="1878" height="277" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1042@1920.0.1920.1080" timestamp="1583227041896" />
+=======
+    <state width="1878" height="277" key="GridCell.Tab.0.bottom" timestamp="1583226230213">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="277" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1042@1920.0.1920.1080" timestamp="1583226230213" />
+    <state width="1878" height="277" key="GridCell.Tab.0.center" timestamp="1583226230213">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="277" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1042@1920.0.1920.1080" timestamp="1583226230213" />
+    <state width="1878" height="277" key="GridCell.Tab.0.left" timestamp="1583226230213">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="277" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1042@1920.0.1920.1080" timestamp="1583226230213" />
+    <state width="1878" height="277" key="GridCell.Tab.0.right" timestamp="1583226230213">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="277" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1042@1920.0.1920.1080" timestamp="1583226230213" />
+>>>>>>> master
     <state x="2363" y="97" width="1024" height="840" key="SettingsEditor" timestamp="1583225886894">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
